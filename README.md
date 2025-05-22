@@ -1,0 +1,1 @@
+# azure-terraform-site-blob-storage
